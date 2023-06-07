@@ -6,6 +6,5 @@ This is a joke program to make fun of kids that sell fake bitcoin miners.
 
 Please don't take it seriously, this is a harmless program, made in batch.
 
-The code is in "code.bat" or "code.txt" so you can explore my non-hard work. It's just 54/55 lines just because of the ascii art.
+Open the ".bat" in any text editor to see my non-hard work.
 
-For mopre info , press "a" at the startup menu to display a message.
